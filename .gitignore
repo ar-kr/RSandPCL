@@ -34,6 +34,7 @@
 # not folder
 forcmake/build/
 forcmake/realtimerspcl/
+realtimepcl/
 
 *.sdf
 
