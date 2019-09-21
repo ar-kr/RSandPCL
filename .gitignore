@@ -35,3 +35,5 @@
 forcmake/build/
 forcmake/realtimerspcl/
 
+*.sdf
+
